@@ -2,7 +2,9 @@
 title: "Week_3_Exercises"
 author: "Shannon Cheng"
 date: "5/28/2020"
-output: html_document
+output: 
+  html_document: 
+    keep_md: yes
 ---
 
 # 4.4 Exercises
